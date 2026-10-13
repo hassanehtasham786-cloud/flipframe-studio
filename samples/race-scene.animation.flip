@@ -1,0 +1,26 @@
+project "Race Scene"
+canvas 640 360
+fps 12
+background #87CEEB
+# Track
+frame 1
+line 0 300 640 300 #444444 8
+rect 60 240 180 60 #E53935
+circle 320 120 45 #1769FF
+text 30 60 32 Race_scene
+# Car moves forward
+frame 2
+line 0 300 640 300 #444444 8
+rect 140 240 180 60 #E53935
+circle 340 120 45 #1769FF
+text 30 60 32 Race_scene
+frame 3
+line 0 300 640 300 #444444 8
+rect 220 240 180 60 #E53935
+circle 360 120 45 #1769FF
+text 30 60 32 Race_scene
+frame 4
+line 0 300 640 300 #444444 8
+rect 300 240 180 60 #E53935
+circle 380 120 45 #1769FF
+text 30 60 32 Finish

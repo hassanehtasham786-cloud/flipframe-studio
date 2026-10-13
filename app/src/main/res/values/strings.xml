@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlipFrame Studio</string>
+    <string name="save_project">Save Project</string>
+    <string name="open_project">Open Project</string>
+    <string name="duplicate_frame">Duplicate Frame</string>
+    <string name="insert_frame_before">Insert Before</string>
+    <string name="insert_frame_after">Insert After</string>
+    <string name="delete_frame">Delete Frame</string>
+    <string name="move_frame">Move Frame</string>
+    <string name="set_resolution">Set Resolution</string>
+    <string name="flipscript">FlipScript</string>
+    <string name="export_frame_png">Export Frame PNG</string>
+    <string name="new_project">New Project</string>
+    <string name="flipscript_file">FlipScript</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+</resources>
